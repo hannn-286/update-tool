@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+	<!--số phiên bản mới-->
+	<version>1.0.0.0</version>
+	<!--đường dẫn tải file .zip chứa file đã cập nhật mới-->
+	<url>https://github.com/hannn-286/update-tool/raw/refs/heads/main/AZHD-update-file.zip</url>
+	<!--các thay đổi-->
+	<changelog>changelog</changelog>
+	<!--có bắt buộc cập nhật hay không-->
+	<mandatory>false</mandatory>
+</item>
